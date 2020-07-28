@@ -9,8 +9,8 @@
 <body>
     <div class="navigasi">
         <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="list/index.php">list</a></li>
+            <li><a href="../../../index.php">Home</a></li>
+            <li><a href="../../index.php">list</a></li>
             <li><a href="">Anime Series</a></li>
             <li><a href="">Genre</a></li>
             <li><a href="">Movie</a></li>
@@ -18,8 +18,8 @@
         <div class="drop">
             <button class="btn">settings</button>
             <div class="dropdown">
-                <a href="login/index.php">sign in</a>
-                <a href="keluar/logout.php">log out</a>
+                <a href="../../../login/index.php">sign in</a>
+                <a href="../../../keluar/logout.php">log out</a>
             </div>
         </div>
     </div>
