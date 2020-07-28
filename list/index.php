@@ -32,7 +32,7 @@
             <div class="main">
                 <div class="a">
                     <p>A</p>
-                    <li><a href="">akame ga kill</a></li>
+                    <li><a href="A/akame/index.php">akame ga kill</a></li>
                     <li><a href="">Ahiru no Sora</a></li>
                     <li><a href="">Assassins Pride</a></li>
                 </div>
