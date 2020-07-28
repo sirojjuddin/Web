@@ -92,10 +92,12 @@ button[type="submit"]:hover{
 
 .footer{
     background-color: black;
-    display: block;
-    overflow: hidden;
-    box-sizing: border-box;
-    padding: 70px 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+    padding: 30px;
 }
 .main p{
     color: white;
