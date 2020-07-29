@@ -27,6 +27,9 @@
                     <button type="submit"><strong>Login kuy</strong></button>
                 </div>
             </form>
+            <div class="forgot">
+                <a href="">Lupa ingatan?!</a>
+            </div>
         </div>
     </div>
     <div class="footer">

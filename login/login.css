@@ -113,3 +113,18 @@ form{
     color: white;
     text-align: center;
 }
+
+.forgot a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.forgot{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.forgot a:hover{
+    text-decoration: underline;
+}

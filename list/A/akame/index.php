@@ -26,7 +26,9 @@
     <div class="container">
         <div class="main">
             <h5>Akame ga Kill! BD (Episode 1 -24) Subtittle indonesia</h4>
-            <p>Download Anime ya cuma di sini! di tempat laen ampas!</p>
+            <div class="pala">
+                <p>Download Anime ya cuma di sini! di tempat laen ampas!</p>
+            </div>
         </div>
         <div class="footer">
             <p>All right reserved &copy; Copyright 2020 build by sahabat siroj & sahabat yanto</p>
