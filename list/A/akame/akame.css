@@ -119,14 +119,61 @@ li a:hover{
     padding: 10px;
     border-radius: 5px;
 }
+.cover img{
+    min-height: 300px;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 4px solid black;
+}
+
+.cover{
+    background-color: #dcd6f7;
+    border-radius: 4px;
+}
 
 
+.sinopsis{
+    text-align: left;
+    margin-right: 3px;
+}
 
+.download{
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 4px;
+}
 
+.download p{
+    padding: 10px;
+    text-align: center;
+}
 
+.isi{
+    background-color: #dcd6f7;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+.ling{
+    padding: 20px;
+    text-align: center;
+}
 
+.btn a{
+    display: inline-block;
+    background-color: blue;
+    padding: 10px;
+    width: 130px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    transition: .5s ease all;
+}
 
-
+.btn a:hover{
+    background-color: blue;
+    opacity: .5;
+}
 
 
 
