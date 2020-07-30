@@ -48,11 +48,31 @@ h1{
     background-color: rgb(192, 193, 231);
 }
 
-.main{
+.grid-container{
     padding: 20px;
     width: 600px;
     float: left;
     background-color: #dcd6f7;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+    grid-gap: 10px;
+}
+
+.grid-item {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(39, 39, 102); 
+}
+.grid-item {
+    color: white;
+    text-decoration: none;
+}
+.grid-item:hover{
+    text-decoration: underline;
 }
 .head{
     padding: 10px;

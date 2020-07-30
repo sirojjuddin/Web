@@ -11,9 +11,9 @@
         <ul>
             <li><a href="../../../index.php">Home</a></li>
             <li><a href="../../index.php">list</a></li>
-            <li><a href="">Anime Series</a></li>
-            <li><a href="">Genre</a></li>
+            <li><a href="">Genre List</a></li>
             <li><a href="">Movie</a></li>
+            <li><a href="">On Going Anime</a></li>
         </ul>
         <div class="drop">
             <button class="btn">settings</button>
@@ -27,7 +27,7 @@
         <div class="main cf">
             <h5>Akame ga Kill! BD (Episode 1 -24) Subtittle indonesia</h4>
             <div class="pala">
-                <p><strong>Download Anime ya cuma di sini! di tempat laen ampas!</strong></p>
+                <p><strong>Download Akame Ga Kill! Batch! sub indo</strong></p>
             </div>
             <div class="cover cf">
                 <p><img src="akame.png" alt="">

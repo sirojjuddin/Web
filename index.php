@@ -11,9 +11,9 @@
         <ul>
             <li class="selek"><a href="index.php">Home</a></li>
             <li><a href="list/index.php">list</a></li>
-            <li><a href="">Anime Series</a></li>
-            <li><a href="">Genre</a></li>
+            <li><a href="genre/index.php">Genre List</a></li>
             <li><a href="">Movie</a></li>
+            <li><a href="">On Going Anime</a></li>
         </ul>
         <div class="drop">
             <button class="btn">settings</button>
@@ -25,7 +25,7 @@
     </div>
     <div class="container">
         <div class="jdl">
-            <h1>Siroj Lovers</h1>
+            <h1>UDIN LOVERS</h1>
         </div>
         <div class="head cf">
             <div class="main">

@@ -175,7 +175,11 @@ li a:hover{
     opacity: .5;
 }
 
+.cover img{
+    margin-left: 5px;
+    height: 450px;
 
+}
 
 
 

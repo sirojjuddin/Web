@@ -11,9 +11,9 @@
         <ul>
             <li><a href="../index.php">Home</a></li>
             <li class="selek"><a href="index.php">list</a></li>
-            <li><a href="">Anime Series</a></li>
-            <li><a href="">Genre</a></li>
+            <li><a href="../genre/index.php">Genre List</a></li>
             <li><a href="">Movie</a></li>
+            <li><a href="">On Going Anime</a></li>
         </ul>
         <div class="drop">
             <button class="btn">settings</button>
