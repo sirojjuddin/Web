@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="genre.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css?v=<?php echo time(); ?>">
     <title>Genre</title>
 </head>
 <body>
@@ -71,10 +72,13 @@
                 </div>
                 
                 <div class="penulis">
-                    <h3>PENULIS</h3>
-                    <p> <strong>si siroj sama si yanto</strong>  <br> <br>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias, fugit?
-                    </p>
+                    <h3>Follow</h3>
+                    <div class="sos">
+                        <a href="https://www.facebook.com/siroj.juddin.9/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a><br>
+                        <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a><br>
+                        <a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a><br>
+                        <a href="https://www.instagram.com/sirojjuddin_a/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
