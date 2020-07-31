@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="akame.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="aho.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="../../../font-awesome-4.7.0/css/font-awesome.min.css?v=<?php echo time(); ?>">
-    <title>Akame Ga Kill! BD</title>
+    <title>Aho Girl BD</title>
 </head>
 <body>
     <div class="navigasi">
@@ -27,41 +27,39 @@
     <div class="lain">
         <div class="container ">
             <div class="main cf">
-                <h5>Akame ga Kill! BD (Episode 1 -24) Subtittle indonesia</h4>
+                <h5>Aho Girl BD (Episode 1 -12) Subtittle indonesia</h4>
                 <div class="pala">
-                    <p><strong>Download Akame Ga Kill! Batch! sub indo</strong></p>
+                    <p><strong>Download Aho Girl Batch! sub indo</strong></p>
                 </div>
                 <div class="cover cf">
-                    <p><img src="akame.png" alt="">
+                    <p><img src="aho_girl.png" alt="">
                         <table>
-                            <tr><td><strong>Judul</strong></td><td>:</td><td>Akame Ga Kill</td></tr>
-                            <tr><td><strong>Skor</strong></td><td>:</td><td>7.82</td></tr>
+                            <tr><td><strong>Judul</strong></td><td>:</td><td>Aho Girl</td></tr>
+                            <tr><td><strong>Skor</strong></td><td>:</td><td>7.39</td></tr>
                             <tr><td><strong>Status</strong></td><td>:</td><td>Completed</td></tr>
-                            <tr><td><strong>Durasi</strong></td><td>:</td><td>23 menit</td></tr>
-                            <tr><td><strong>Total Episode</strong></td><td>:</td><td>24</td></tr>
-                            <tr><td><strong>Tanggal Rilis</strong></td><td>:</td><td>juli 7 2014</td></tr>
-                            <tr><td><strong>Genre</strong></td><td>:</td><td>Action, Adventure, Fantasy</td></tr>
+                            <tr><td><strong>Durasi</strong></td><td>:</td><td>12 menit</td></tr>
+                            <tr><td><strong>Total Episode</strong></td><td>:</td><td>12</td></tr>
+                            <tr><td><strong>Tanggal Rilis</strong></td><td>:</td><td>juli 4 2017</td></tr>
+                            <tr><td><strong>Genre</strong></td><td>:</td><td>Comedy, Romance, School</td></tr>
                         </table>
+                        <br><br>
                         <p class="sinopsis">
-                            Akame ga kill - bercerita tentang seorang pemuda bernama tatsumi yang datang dari desa ke kota
-                            dengan cita-cita suatu hari nanti ia ingin mencari uang dengan menjadi seorang prajurit kerajaan 
-                            dan memakmurkan desanya yang sekarang dilamda kemiskinan dan kelaparan. <br><br>
-                            ia datang ditemani kedua temannya untuk mengikuti ujian masuk menjadi prajurit kerajaan. namun sesampainya disana ia malah tertipu oleh seorang
-                            yang mengaku akan menjadikannya seorang prajurit. <br><br>
-                            Beberapa saat ia di ibu kota, Tatsumi menyadari adanya tipu daya dan kebusukan yang belum banyak 
-                            diketahui di ibu kota tersebut. <br><br>
-                            sayangnya setelah ia tahu bahwa temannya terbunuh tatsumi diajak bergabung oleh sekelompok organisasi misterius bernama night raid.
+                            Aho girl menceritakan tentang gadis SMA yang bernama Yoshiko Hanabatake, Yoshiko terkenal dengan kebodohannya dalam sosial 
+                            dan akademis. ia memiliki teman masa kecil yang bernama Akuru. <br><br>
+                            yoshiko sangat bodoh. Bahkan dalam ujian ia mendapat nilai 0. ia selalu bermain bersama akuru dan terus 
+                            mengganggunya <br><br>
+                            Akuru yang tak lain adalah teman masa kecilnya yoshiko tak punya pilihan lain dan kesehariannya adalah mengawasi si bodoh yoshiko
                         </p>
                     </p>  
                 </div>
                 <div class="download">
-                    <p><strong>Download Akame Ga Kill! Batch!</strong></p>
+                    <p><strong>Download Aho Girl Batch!</strong></p>
                 </div>
                 <div class="isi">
                     <div class="ling">
-                        <h6>Download Akame Ga Kill! 720p</h6>
+                        <h6>Download Aho Girl 720p</h6>
                         <div class="btn">
-                            <a href="https://drive.google.com/uc?id=1p2ody-QpeoUlmkyvoLW_w3HY0EWqXOwL&confirm=jYel&export=download" target="_blank">Download</a>
+                            <a href="https://drive.google.com/uc?id=19xa1NmDlZe0vYaJU5qosg2GO6X96Uln1&confirm=jYel&export=download" target="_blank">Download</a>
                         </div>
                     </div>
                 </div>
