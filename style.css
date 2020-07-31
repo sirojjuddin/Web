@@ -2,6 +2,10 @@ body{
     background-color: rgb(39, 39, 102, .7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 /*------------navigasi---------------*/
 .navigasi{
     background-color: black;
@@ -88,9 +92,12 @@ h1{
     width: 960px;
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 30px;
     background-color: rgb(192, 193, 231);
 }
-
+.lain{
+    min-height: calc(100vh - 45px - 59px);
+}
 .main{
     padding: 20px;
     width: 600px;
@@ -123,27 +130,30 @@ h1{
 .footer{
     text-align: center;
 }
-
-.footer a{
-    text-decoration: none;
-    color: white;
-    background-color: red;
-    padding: 10px;
-    border-radius: 5px;
-}
-
-.footer a:hover{
-    background-color: rgb(153, 46, 46);
-    transition: 0.5s;
-    color: black;
-}
-
 .selek{
     background-color: blueviolet;
 }
 
+.sos{
+    padding: 10px;
+    font-size: 50px;
+}
 
+.fa-facebook-square{
+    color: blue;
+}
 
+.fa-twitter{
+    color: #1DA1F2;;
+}
+
+.fa-google-plus{
+    color: #d34836;
+}
+
+.fa-instagram{
+    color: #8a3ab9;
+}
 
 
 

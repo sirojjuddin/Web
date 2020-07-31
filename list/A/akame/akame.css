@@ -2,6 +2,10 @@ body{
     background-color: rgb(39, 39, 102, .7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 /*------------navigasi---------------*/
 .navigasi{
     background-color: black;
@@ -81,6 +85,10 @@ li a:hover{
 /*--------------end of navbar--------------*/
 
 /*--------------konten-------------------*/
+.lain{
+    min-height: calc(100vh - 45px - 59px);
+    margin-bottom: 10px;
+}
 .main{
     width: 930px;
     margin: auto;
@@ -181,6 +189,36 @@ li a:hover{
 
 }
 
+.sis{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.fol{
+    background-color: #dcd6f7;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.fa-facebook-square{
+    color: blue;
+}
+
+.fa-twitter{
+    color: #1DA1F2;;
+}
+
+.fa-google-plus{
+    color: #d34836;
+}
+
+.fa-instagram{
+    color: #8a3ab9;
+}
 
 
 

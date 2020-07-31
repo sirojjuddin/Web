@@ -2,6 +2,10 @@ body{
     background-color: rgb(39, 39, 102, .7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 /*------------navigasi---------------*/
 .navigasi{
     background-color: black;
@@ -16,6 +20,10 @@ body{
     list-style-type: none;
     padding: 0;
     margin: 0;
+}
+
+.lain{
+    min-height: calc(100vh - 45px - 59px);
 }
 
 .navigasi li{
@@ -158,6 +166,26 @@ h1{
     background-color: blueviolet;
 }
 
+.sos{
+    padding: 10px;
+    font-size: 50px;
+}
+
+.fa-facebook-square{
+    color: blue;
+}
+
+.fa-twitter{
+    color: #1DA1F2;;
+}
+
+.fa-google-plus{
+    color: #d34836;
+}
+
+.fa-instagram{
+    color: #8a3ab9;
+}
 
 
 
