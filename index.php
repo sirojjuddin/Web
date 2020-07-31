@@ -43,9 +43,8 @@
                         <a href="https://www.facebook.com/siroj.juddin.9/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a><br>
                         <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a><br>
                         <a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a><br>
-                        <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/sirojjuddin_a/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                     </div>
-                    </p>
                 </div>
             </div>
         </div>
