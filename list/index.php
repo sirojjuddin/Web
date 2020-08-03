@@ -41,25 +41,25 @@
                     </div>
                     <div class="a">
                         <p>B</p>
-                        <li><a href="">Black Clover</a></li>
-                        <li><a href="">Boruto: Naruto Next Generations</a></li>
+                        <li><a href="">Blend S</a></li>
+                        <li><a href="">Baka to test to shoukanjuu</a></li>
                         <li><a href="">Boku no Hero Academia</a></li>
                     </div>
                     <div class="a">
                         <p>C</p>
-                        <li><a href="">Captain Tsubasa</a></li>
+                        <li><a href="">Charlotte</a></li>
+                        <li><a href="">Chuunibyou demo koi ga Shitai!</a></li>
+                        <li><a href="">Clannad</a></li>
                     </div>
                     <div class="a">
                         <p>D</p>
-                        <li><a href="">Dr.stone</a></li>
-                        <li><a href="">Date A live</a></li>
-                        <li><a href="">D-Frag!</a></li>
+                        <li><a href="">Date A live </a></li>
+                        <li><a href="">Date A live season 2</a></li>
+                        <li><a href="">Date A live season 3</a></li>
                     </div>
                     <div class="a">
                         <p>E</p>
                         <li><a href="">Eromanga-sensei</a></li>
-                        <li><a href="">Ergo proxy</a></li>
-                        <li><a href="">Endride</a></li>
                     </div>
                 </div>
                 <div class="penulis">
